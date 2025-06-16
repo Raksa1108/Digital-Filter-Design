@@ -54,16 +54,3 @@ Inside the app, you will experience a complete digital filter workflow:
 - **Soundfile & Librosa** – audio processing
 
 ---
-
-## 🔧 How to Run Locally
-
-### 🖥️ Prerequisites
-- Python 3.8+
-- Pip (Python package manager)
-
-### 🛠 Installation
-
-```bash
-git clone https://github.com/Raksa1108/Digital-Filter-Design.git
-cd Digital-Filter-Design
-pip install -r requirements.txt

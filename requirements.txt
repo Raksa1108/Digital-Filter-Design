@@ -1,9 +1,7 @@
-streamlit 
-numpy 
+streamlit
+numpy
 scipy
 pandas
 plotly
-fractions
-json
 soundfile
 librosa
